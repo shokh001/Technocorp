@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7240a82-c866-4588-b11c-67e107995478" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pcKlKHlnHhMtz6zADcILEPFksw" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practice/PDP Battle" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PDP Web\WebFull G80\Lesson 17. MaxWay\assets\fonts\Inter" />
+      <recent name="D:\PDP Web\WebFull G80\Lesson 17. MaxWay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7240a82-c866-4588-b11c-67e107995478" name="Default Changelist" comment="" />
+      <created>1615477087295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615477087295</updated>
+      <workItem from="1615477088556" duration="1319000" />
+      <workItem from="1615490229914" duration="3000" />
+      <workItem from="1615550421150" duration="13000" />
+      <workItem from="1615609501137" duration="4000" />
+      <workItem from="1615646403795" duration="6174000" />
+      <workItem from="1615911238977" duration="7484000" />
+      <workItem from="1615928563819" duration="2432000" />
+      <workItem from="1615974988804" duration="4278000" />
+      <workItem from="1615988575829" duration="17681000" />
+      <workItem from="1616221799375" duration="8140000" />
+      <workItem from="1616245247854" duration="25098000" />
+      <workItem from="1616309216457" duration="157000" />
+      <workItem from="1616467054031" duration="184000" />
+      <workItem from="1616473613485" duration="41000" />
+      <workItem from="1616494280417" duration="1600000" />
+      <workItem from="1616507613947" duration="1393000" />
+      <workItem from="1616664188292" duration="51000" />
+      <workItem from="1616794507045" duration="423000" />
+      <workItem from="1616915898792" duration="17356000" />
+      <workItem from="1616948246787" duration="3330000" />
+      <workItem from="1616997079990" duration="16522000" />
+      <workItem from="1617017550350" duration="9114000" />
+      <workItem from="1617031478687" duration="10025000" />
+      <workItem from="1617087208002" duration="2588000" />
+      <workItem from="1617098940566" duration="1281000" />
+      <workItem from="1617112649490" duration="1118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
